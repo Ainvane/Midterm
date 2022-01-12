@@ -76,19 +76,14 @@
       </div>
 
 
-      <div class="section" id="petinfo">
-        <h1>Submit Pet Information</h1>
-        <p>Would love to know what kinds of pets you 'own' (you'll never own me). Submit below!</p>
-
+     <div class="section" id="contact">
+        <h1>Contact</h1>
         <form>
 
-          <label for="petname">Name:</label>
-          <input id="petname" type="text" name="petname"><br>
-          <label for="phylum">Phylum:</label>
-          <input id="phylum" type="text" name="phylum"><br>
-          <label for="gender">Gender:</label>
-          <input id="gender" type="text" name="gender"><br>
-
+          <label for="email">email:</label>
+          <input id="email" type="text" name="email"><br>
+          <label for="Message">Message:</label>
+          <input id="Message" type="text" name="Message"><br>
             <input type="submit" value="Submit">
         </form>
       </div>
